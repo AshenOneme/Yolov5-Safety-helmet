@@ -8,14 +8,14 @@
   </tr>
   <tr>
      <td colspan="2">
-     <div align=center>(a) 骨架曲线+残余变形+能量耗散+刚度退化</div>
+     <div align=center>(a) 节点试验</div>
   </tr>
   <tr>
     <td><img width="600px" src="https://user-images.githubusercontent.com/98397090/233547059-2a2bc533-ea2a-4069-9586-9832e936223b.jpg"/></td>
   </tr>
   <tr>
      <td colspan="2">
-     <div align=center>(b) 滞回环拆解输出</div>
+     <div align=center>(b) 振动台试验</div>
   </tr>
 </table>
 
